@@ -13,6 +13,11 @@ A React-based application to visualize carbon intensity across regions using Lea
 
 ---
 
+## Live Demo
+  https://carbon-map-web-app.vercel.app/
+
+---
+
 ## Build and Run Instructions
 
 ### Prerequisites
@@ -36,9 +41,6 @@ A React-based application to visualize carbon intensity across regions using Lea
 
  ## Legend
 ![alt text](image-2.png)
-
- ## Live Demo
-  https://carbon-map-web-app.vercel.app/
 
  ## Credits
 
