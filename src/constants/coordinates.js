@@ -1,0 +1,20 @@
+export const regionCoordinates = {
+    "North Scotland": { lat: 57.5, lon: -4.0 },
+    "South Scotland": { lat: 55.9, lon: -4.3 },
+    "North West England": { lat: 53.5, lon: -2.3 },
+    "North East England": { lat: 54.9, lon: -1.5 },
+    "Yorkshire": { lat: 53.8, lon: -1.5 },
+    "North Wales & Merseyside": { lat: 53.2, lon: -3.8 },
+    "South Wales": { lat: 51.5, lon: -3.2 },
+    "West Midlands": { lat: 52.5, lon: -2.0 },
+    "East Midlands": { lat: 52.9, lon: -1.2 },
+    "East England": { lat: 52.2, lon: 0.1 },
+    "South West England": { lat: 50.9, lon: -3.6 },
+    "South England": { lat: 51.0, lon: -1.0 },
+    "London": { lat: 51.5, lon: -0.1 },
+    "South East England": { lat: 51.2, lon: 0.7 },
+    "England": { lat: 53.0, lon: -1.0 },
+    "Scotland": { lat: 56.5, lon: -4.0 },
+    "Wales": { lat: 52.3, lon: -3.8 },
+    "GB": { lat: 54.0, lon: -2.0 }
+};
