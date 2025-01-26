@@ -22,7 +22,7 @@ A React-based application to visualize carbon intensity across regions using Lea
 ### Steps to Run Locally
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/Manjur17/CarbonMapWebApp.git
    cd <repository_directory>
    npm install
    npm start
@@ -38,6 +38,7 @@ A React-based application to visualize carbon intensity across regions using Lea
 ![alt text](image-2.png)
 
  ## Live Demo
+  https://carbon-map-web-app.vercel.app/
 
  ## Credits
 
